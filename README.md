@@ -8,5 +8,5 @@
 - IDE sử dụng: Jupyter notebook
 - Thư viện sử dụng: BeautifulSoup, urlopen, urllib.request, urlparse, os, pandas
 ## Kết quả khi chạy
-
+- Xem kết quả ở https://github.com/datnguyennt/crawl-website/blob/master/CuoiKy.ipynb
 ![](https://github.com/datnguyennt/crawl-website/blob/master/CuoiKy.ipynb)
